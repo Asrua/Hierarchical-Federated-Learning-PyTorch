@@ -6,7 +6,7 @@ You can set the number of the layers and the number of servers at each layer man
 
 Experiments are produced on MNIST, Fashion MNIST and CIFAR10 (both IID and non-IID). In case of non-IID, the data amongst the users can be split equally or unequally.
 
-The federated learning structure is forked from [AshwinRJ] (https://github.com/AshwinRJ/Federated-Learning-PyTorch)
+The federated learning structure is forked from [AshwinRJ](https://github.com/AshwinRJ/Federated-Learning-PyTorch)
 
 ## Requirments
 Install all the packages from requirments.txt
