@@ -47,7 +47,7 @@ In the hierarachial FL framework, users are divided into different groups and up
 
 * To run the hierarachial FL experiment with non-IID data:
 ```
-python hier_fed_main --model=cnn --dataset=cifar --gpu=0 --iid=0 --epochs=10
+python hier_fed_main.py --model=cnn --dataset=cifar --gpu=0 --iid=0 --epochs=10
 ```
 
 ## Options
