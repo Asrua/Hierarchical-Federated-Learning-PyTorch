@@ -1,4 +1,4 @@
-# Hierarchical Federated-Learning (PyTorch)
+# Hierarchical Federated Learning Framework(PyTorch)
 
 This is a hierarchical federated learning framework, which is an extension of the vanilla federated learning paper : [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629).
 
